@@ -16,7 +16,7 @@ from rf708_calculator_core import (
 
 # ============ 1. Page config ============
 st.set_page_config(
-    page_title="Prediction of Exercise Therapy Effectiveness and Treatment Plan Recommendation for Adolescents with Abnormal Spinal Curvature",
+    page_title="Prediction of Exercise Therapy Effectiveness and Intervention Plan Recommendation for Adolescents with Abnormal Spinal Curvature",
     layout="wide"
 )
 
@@ -76,7 +76,7 @@ label p {
 )
 
 st.markdown(
-    '<div class="page-title">System for Predicting Exercise Therapy Effectiveness and Recommending Treatment Plans for Adolescents with Abnormal Spinal Curvature</div>',
+    '<div class="page-title">System for Predicting Exercise Therapy Effectiveness and Recommending Intervention Plans for Adolescents with Abnormal Spinal Curvature</div>',
     unsafe_allow_html=True,
 )
 
